@@ -1,0 +1,22 @@
+FLOR SORPRESA - VERSION PARA PUBLICAR
+
+Esta carpeta ya está preparada para subirla a Netlify Drop.
+
+Archivos:
+- index.html
+- static/style.css
+- static/script.js
+
+NO necesitas ejecutar Python para esta versión publicada.
+
+Pasos:
+1. Abre https://app.netlify.com/drop
+2. Inicia sesión en Netlify si te lo pide.
+3. Arrastra ESTA CARPETA completa a la zona de subida.
+4. Netlify te dará un enlace terminado en netlify.app.
+5. Copia ese enlace y mándaselo por WhatsApp.
+
+Para cambiar el mensaje:
+- Abre static/script.js
+- Busca la variable "text"
+- Cambia el texto entre las comillas.
